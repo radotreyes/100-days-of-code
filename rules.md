@@ -6,7 +6,7 @@
 
 #### Start Date
 
-September 29, 2018. [PUT YOUR DATE HERE]
+September 29, 2018
 
 ## Additional Rules
 
