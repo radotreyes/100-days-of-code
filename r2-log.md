@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 2: September 30, 2018 (Example 1)
+
+**Today's Progress**:
+
+- finished the full design for a client site!
+- decided to dial down on backend programming, will be touring Meteor, Express, etc. and blogging about it on [Try Coding It's Fun](https://trycodingitsfun.com) along with my experiences in Django
+
+**Thoughts:**
+
+- (i guess i didn't really code so much today, but design still counts towards a website i'm building so i'll call it coding)
+
+**Link to work:** (it's private, sry)
+
 ### Day 1: September 29, 2018 (Example 1)
 
 **Today's Progress**:
