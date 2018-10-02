@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 2: September 30, 2018 (Example 1)
+### Day 3: October 1, 2018
+
+**Today's Progress**:
+
+- blasted through nodeschool's `stream-adventure`!
+- getting intimate with tree traversal, able to construct trees without a hitch
+- attempted to help a peer out with the HTML Drag & Drop API, but the solution they were looking for wasn't possible due to browser constraints
+- (today isn't over at the time of writing this, but it's late so meh) plan on diving into RxJS and headless WordPress today
+
+**Thoughts:**
+
+- backend programming is really neat, i like the _programming logic_ aspect of it a lot more than frontend, but i do like frontend overall more because of the artistic aspect
+
+**Link to work:** [stream-adventure solutions](https://github.com/radotreyes/learnyounode)
+
+### Day 2:
 
 **Today's Progress**:
 
@@ -13,7 +28,7 @@
 
 **Link to work:** (it's private, sry)
 
-### Day 1: September 29, 2018 (Example 1)
+### Day 1: September 29, 2018
 
 **Today's Progress**:
 
