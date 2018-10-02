@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 3: October 1, 2018
+## Day 3: October 1, 2018
 
 **Today's Progress**:
 
@@ -15,7 +15,7 @@
 
 **Link to work:** [stream-adventure solutions](https://github.com/radotreyes/learnyounode)
 
-### Day 2: September 30, 2018
+## Day 2: September 30, 2018
 
 **Today's Progress**:
 
@@ -28,7 +28,7 @@
 
 **Link to work:** (it's private, sry)
 
-### Day 1: September 29, 2018
+## Day 1: September 29, 2018
 
 **Today's Progress**:
 
