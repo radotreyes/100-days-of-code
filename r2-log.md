@@ -5,7 +5,7 @@
 **Today's Progress**:
 
 - blasted through nodeschool's `stream-adventure`!
-- getting intimate with tree traversal, able to construct trees without a hitch
+- getting intimate with tree traversal, able to construct trees without a hitch, depth-first traversal could use some more grokking though
 - attempted to help a peer out with the HTML Drag & Drop API, but the solution they were looking for wasn't possible due to browser constraints
 - (today isn't over at the time of writing this, but it's late so meh) plan on diving into RxJS and headless WordPress today
 
@@ -15,7 +15,7 @@
 
 **Link to work:** [stream-adventure solutions](https://github.com/radotreyes/learnyounode)
 
-### Day 2:
+### Day 2: September 30, 2018
 
 **Today's Progress**:
 
