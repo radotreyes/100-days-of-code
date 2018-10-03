@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 4: October 2, 2018
+
+**Today's Progress**:
+
+- got started with headless WordPress
+  - gonna be trying out WP REST API with both Gatsby and NextJS
+- started migrating imsilentphotography.net to WP/NextJS
+
+**Thoughts:**
+
+- today was kind of laid back, didn't do a lot as far as coding but did do a fair amount of researching
+
+**Link to work:** [imsilentphotography.net migration](https://github.com/radotreyes/im-silent-photography)
+
 ## Day 3: October 1, 2018
 
 **Today's Progress**:
