@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 5: October 3, 2018
+
+**Today's Progress**:
+
+- learned a little about how Next.js works
+- setup both frontend and backend with dependencies for imsilentphotography
+  - build process runs fine with no hassle
+- dove into WP REST API, jesus CHRIST this isn't scary at all, given that i've worked with most of this data before via normal WordPress
+
+**Thoughts:**
+
+- today was... also pretty laid back tbh. but the deeper i get into WP the more excited i get about it for some reason
+
+**Link to work:** [imsilentphotography.net](https://github.com/radotreyes/im-silent-photography)
+
 ## Day 4: October 2, 2018
 
 **Today's Progress**:
