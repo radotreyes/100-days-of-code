@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 7: October 5, 2018
+
+**Today's Progress**:
+
+- working with SSR in Next.js and learning when and how to utilize SSR methods when loading API queries with WordPress
+  - built a useful, dynamic `Archive` component which loads reliably loads any CPT or taxonomy data when passing them in as args
+- used Sass to define my grid and flex layouts for the index page
+
+**Thoughts:**
+
+- Sass is actually really really really fun and i really enjoy it
+- working through the gotchas of Next.js + WP is what it seems like i'm doing a lot of right now, i'm not mad at it tbh
+  - actually i'm excited to finally be able to build sites in WP!
+  - i have a pretty strong command over React and Next (and Sass tbh, not a strong command but a decent grasp of it), and i don't think i will be running into too many problems with migrating this site
+
+**Link to work:** [imsilentphotography.net](https://github.com/radotreyes/im-silent-photography)
+
 ## Day 5: October 3, 2018
 
 **Today's Progress**:
