@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 8: October 6, 2018
+
+**Today's Progress**:
+
+- spent all day working on a little fun project
+  - uses CSS grid to generate and populate tile maps, could be used for various 2D games
+  - all in vanilla JS (besides the express dev server)
+  - having issues updating the entities on the generated grid map
+
+**Thoughts:**
+
+- that project started out as a fun idea and got convoluted really quickly lol
+- i'm glad i started it though, it's nice to be working on games again
+
+**Link to work:** [Grid Platformer](https://github.com/radotreyes/grid-platformer)
+
 ## Day 7: October 5, 2018
 
 **Today's Progress**:
