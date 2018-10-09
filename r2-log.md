@@ -1,8 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 10: October 8, 2018
+
+**Today's Progress**:i
+
+- have a job interview coming up, so been drilling DS&A heavily
+  - colt steele's DS&A course: got through pretty much the first 4.5 (of 29) sections
+
+**Thoughts:**
+
+- it's just interview experience man CHILL
+
+**Link to work:** [Colt Steele DS&A Solutions](https://github.com/radotreyes/colt-steele-dsa)
+
 ## Day 8: October 6, 2018
 
-**Today's Progress**:
+**Today's Progress**:i
 
 - spent all day working on a little fun project
   - uses CSS grid to generate and populate tile maps, could be used for various 2D games
