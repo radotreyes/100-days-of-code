@@ -1,8 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 11: October 9, 2018
+
+**Today's Progress**:
+
+- through the first 9.5/29 sections of colt steele DS&A
+- solved a butt ton of algorithms, including frequency counters, sliding doors, recursion
+
+**Thoughts:**
+
+- it's just interview experience man CHILL!!!!
+- this course is maybe 75% review, 25% new stuff so far
+
+**Link to work:** [Colt Steele DS&A Solutions](https://github.com/radotreyes/colt-steele-dsa)
+
 ## Day 10: October 8, 2018
 
-**Today's Progress**:i
+**Today's Progress**:
 
 - have a job interview coming up, so been drilling DS&A heavily
   - colt steele's DS&A course: got through pretty much the first 4.5 (of 29) sections
