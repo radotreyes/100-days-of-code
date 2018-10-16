@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 17: October 14, 2018
+
+**Today's Progress**:
+
+- have custom menus and post types working for imsilentphotography
+- moved menus over to context API with SSR
+- layout is coming along, will get deep into styling tomorrow after fully configuring CPTs and ACF
+
+**Thoughts:**
+
+- my debugging process needs to change. i plan on reading Clean Code daily. i feel as if i get stuck on simple problems too easily because i hang on to my incorrect assumptions for too long...
+- site is coming along nicely after a few delays due to an interview (didn't get the job, but good experience)
+
+**Link to work:** [imsilentphotography.net](https://github.com/radotreyes/im-silent-photography)
+
 ## Day 11: October 9, 2018
 
 **Today's Progress**:
