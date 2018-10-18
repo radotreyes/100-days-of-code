@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 18: October 16, 2018
+
+**Today's Progress**:
+
+- the data layer for imsilentphotography is completely linked to the frontend now
+- have custom post types and featured image access working
+- learned quite a bit about Next.js architecture lol. aka don't mess with the App component
+- all the data i need is exposed via REST API now. will look into ACFs and see if i need to add anything else.
+
+**Thoughts:**
+
+- happy with how i handled my debugging process today. even though it wasn't smooth as i'd like, i still came to my senses, didn't tunnel on one particular hunch, and actually figured out my problems in a timely fashion
+  - just need practice!
+- tomorrow: see what improvements can be made to the server/db layers, then start diving into my layout!
+
+**Link to work:** [imsilentphotography.net](https://github.com/radotreyes/im-silent-photography)
+
 ## Day 17: October 14, 2018
 
 **Today's Progress**:
